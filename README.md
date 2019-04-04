@@ -6,9 +6,6 @@ CVPR 2019
 
 ![outline](https://github.com/hwang1996/ACME/blob/master/imgs/cvpr_fig.png)
 
-If you find this code useful, please consider citing:
-```
-```
 Our work is an extension of [im2recipe](https://github.com/torralba-lab/im2recipe-Pytorch), where you can borrow some food data pre-processing methods.
 
 ## Installation
