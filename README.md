@@ -13,7 +13,7 @@ We use pytorch v0.5.0 and python 3.5.2 in our experiments.
 You need to download the Recipe1M dataset from [here](http://im2recipe.csail.mit.edu/dataset) first.
 
 ## Training
-Train the ACME model:GPU
+Train the ACME model:
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py 
 ```
